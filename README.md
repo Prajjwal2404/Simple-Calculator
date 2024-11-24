@@ -15,8 +15,8 @@ The **Simple GUI Calculator** is a Python-based tool that allows users to calcul
 
 1. Launch the program by running `main.py`.
 2. The GUI will open with buttons for each digit and mathematical operations:
-   - **Digit buttons (0 - 9) **: Click a digit button to enter desired digit.
-   - **Mathematical Operation buttons **: Click a mathematical operation button to enter a operation.
+   - **Digit buttons (0 - 9)** : Click a digit button to enter desired digit.
+   - **Mathematical Operation buttons** : Click a mathematical operation button to enter a operation.
 3. Click **=** button to calculate the result of the expression.
 4. Click **C** button to clear the expression field.
 
